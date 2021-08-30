@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZD2QteySaH8kzcwpCGPk3OlOmHZD8WRKrDN93bQZJZDILY67uP7piMcA3mtfqMDGCWaiUxkPTz274iXfyCtyEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amcel\\source\\repos\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amcel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
